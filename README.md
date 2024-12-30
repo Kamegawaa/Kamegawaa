@@ -8,9 +8,9 @@ Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologia
 ## **Tecnologias e Ferramentas**
 
 ## Frontend
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) JavaScript
+![HTML5](https://media.giphy.com/media/3o6Zt7hMD4wZLFc1SM/giphy.gif)
+![CSS3](https://media.giphy.com/media/xUOxf1bSllthcOkcoM/giphy.gif)
+![JavaScript](https://media.giphy.com/media/l1J9z5FJCEYpXbFcM/giphy.gif)
 
 ## Ferramentas
 - ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) VS Code
