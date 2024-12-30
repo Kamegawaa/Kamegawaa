@@ -1,7 +1,7 @@
 # Salve!
 
 **Frontend Developer** - Da ideia ao real.  
-Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologias!
+Prazer, eu sou o Lucas e trabalho hoje no mundo do desenvolvimento web e criação de protótipos.
 
 
 ## **Tecnologias e Ferramentas**
