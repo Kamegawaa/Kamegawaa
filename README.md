@@ -25,5 +25,3 @@ Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologia
 
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) 
 - **E-mail**: lucaspireskamegawa@gmail.com
-
-✨ "A imaginação é mais importante que o conhecimento."  
