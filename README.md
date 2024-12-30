@@ -13,6 +13,7 @@ Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologia
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white) 
+![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=googlechrome&logoColor=white)  
 
 ---
 
