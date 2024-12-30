@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas!
+# Salve!
 
 **Frontend Developer** Da ideia ao real.  
 Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologias!
