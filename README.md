@@ -7,13 +7,17 @@ Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologia
 
 ## **Tecnologias e Ferramentas**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-B023BD?style=flat&logo=figma&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-4CAF50?style=flat&logo=googlechrome&logoColor=white)
+## Frontend
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) JavaScript
+
+## Ferramentas
+- ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white) VS Code
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
+- ![Figma](https://img.shields.io/badge/Figma-B023BD?style=flat&logo=figma&logoColor=white) Figma
+- ![DevTools](https://img.shields.io/badge/DevTools-4CAF50?style=flat&logo=googlechrome&logoColor=white) DevTools
+
 
 --
 
