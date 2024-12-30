@@ -21,13 +21,9 @@ Atualmente atuando no mundo do desenvolvimento web e aprendendo novas tecnologia
 - **Blazor**: Blazor é uma estrutura da web gratuita e de código aberto que permite aos desenvolvedores criar interfaces de usuário (IU) da web com base em componentes, usando C# e HTML .
 - **MongoDB**: MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
 
----
-
 ## **Como Me Encontrar**
 
 - **LinkedIn**: [[linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/lucas-kamegawa/)  
 - **E-mail**: lucaspireskamegawa@gmail.com
-
----
 
 ✨ "A imaginação é mais importante que o conhecimento."  
