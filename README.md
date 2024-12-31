@@ -9,13 +9,14 @@ Prazer, eu sou o Lucas e trabalho hoje no mundo do desenvolvimento web e cria√ß√
 - ![HTML5](https://img.shields.io/badge/HTML5-292a2b?style=flat&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/CSS3-292a2b?style=flat&logo=css3&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-292a2b?style=flat&logo=javascript&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-292a2b?style=flat&logo=javascript&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-292a2b?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-292a2b?style=flat&logo=python&logoColor=white)
 
 #### Ferramentas
 - ![VS Code](https://img.shields.io/badge/VS_Code-292a2b?style=flat&logo=visual-studio-code&logoColor=white) 
 - ![GitHub](https://img.shields.io/badge/GitHub-292a2b?style=flat&logo=github&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-292a2b?style=flat&logo=figma&logoColor=white) 
-- ![DevTools](https://img.shields.io/badge/DevTools-292a2b?style=flat&logo=googlechrome&logoColor=white) 
+- ![DevTools](https://img.shields.io/badge/DevTools-292a2b?style=flat&logo=googlechrome&logoColor=white)
 
 ## **Atualmente Estou Aprendendo**
 
