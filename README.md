@@ -1,5 +1,5 @@
-# *Frontend Developer* - Da ideia ao real.  
-Prazer, eu sou o Lucas e trabalho hoje no mundo do desenvolvimento web e criação de protótipos.
+l# *Frontend Developer* - Da ideia ao real.  
+Prazer, eu sou o Lucas e sou Desenvolvedor Frontend | Prototipação de Software | Desenvolvedor Criativo - JavaScript, HTML5, CSS3, Java, VS Code, Github, Figma, Devtools. Transformo ideias em soluções inovadoras e funcionais.
 
 
 ## **Tecnologias e Ferramentas**
