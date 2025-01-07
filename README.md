@@ -28,6 +28,7 @@ Prazer, eu sou o Lucas e sou Desenvolvedor Frontend | Prototipação de Software
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/714dcb89-9911-444f-afc8-bb1082c4a433/deploy-status)](https://app.netlify.com/sites/blog-calculo/deploys)
 
 **Frontend Developer** - From ideas to reality.  
 Nice to meet you! I'm Lucas, and I work in the world of web development and prototype creation.
