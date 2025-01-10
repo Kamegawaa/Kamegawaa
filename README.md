@@ -23,7 +23,7 @@ Prazer, eu sou o Lucas e sou Desenvolvedor Frontend | Prototipação de Software
 
 ## **Como Me Encontrar**
 
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) 
+- **LinkedIn**: [linkedin.com/in/meu-perfil](https://www.linkedin.com/in/lucas-kamegawa/) 
 - **E-mail**: lucaspireskamegawa@gmail.com
 
 ---
