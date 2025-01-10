@@ -38,5 +38,5 @@ Nice to meet you! I'm Lucas, and I work in the world of web development and prot
 
 ## **How to Reach Me**
 
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) 
+- **LinkedIn**: [linkedin.com/in/my-profile](https://www.linkedin.com/in/lucas-kamegawa/) 
 - **Email**: lucaspireskamegawa@gmail.com
