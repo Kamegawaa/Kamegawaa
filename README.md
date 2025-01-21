@@ -31,12 +31,12 @@ Prazer, eu sou o Lucas e sou Desenvolvedor Frontend | Prototipação de Software
 **Frontend Developer** - From ideas to reality.  
 Nice to meet you! I'm Lucas, and I work in the world of web development and prototype creation.
 
-## **Currently Learning**
+### **Currently Learning**
 
 - **Blazor**: Blazor is a free and open-source web framework that enables developers to build web user interfaces (UI) based on components, using C# and HTML.
 - **MongoDB**: MongoDB is a free, open-source, cross-platform document-oriented database software written in C++.
 
-## **How to Reach Me**
+### **How to Reach Me**
 
 - **LinkedIn**: [linkedin.com/in/my-profile](https://www.linkedin.com/in/lucas-kamegawa/) 
 - **Email**: lucaspireskamegawa@gmail.com
