@@ -21,7 +21,7 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 ### Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
-  <img src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="GitHub" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" alt="GitHub" width="60" height="60" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="60" height="60" style="margin: 10px;" />
 </div>
