@@ -1,42 +1,65 @@
-# Frontend Developer - *Da ideia ao real.* 
-Prazer, eu sou o Lucas e sou Desenvolvedor Frontend | Prototipação de Software | Desenvolvedor Criativo - JavaScript, HTML5, CSS3, Java, VS Code, Github, Figma, Devtools. Transformo ideias em soluções inovadoras e funcionais. 
+# Lucas Kamegawa - Frontend Developer 🚀
 
+> **Da ideia ao real.**
 
-## **Tecnologias e Ferramentas**
-#### Frontend
- ![HTML5](https://img.shields.io/badge/HTML5-292a2b?style=flat&logo=html5&logoColor=white) 
- ![CSS3](https://img.shields.io/badge/CSS3-292a2b?style=flat&logo=css3&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/JavaScript-292a2b?style=flat&logo=javascript&logoColor=white)
- ![Java](https://img.shields.io/badge/Java-292a2b?style=flat&logo=openjdk&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-292a2b?style=flat&logo=python&logoColor=white)
+Olá, eu sou o **Lucas**!  
+Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **Desenvolvimento Criativo**. Transformo ideias em soluções inovadoras e funcionais utilizando tecnologias como JavaScript, HTML5, CSS3, Java, VS Code, GitHub, Figma e DevTools.
 
-#### Ferramentas
- ![VS Code](https://img.shields.io/badge/VS_Code-292a2b?style=flat&logo=visual-studio-code&logoColor=white) 
- ![GitHub](https://img.shields.io/badge/GitHub-292a2b?style=flat&logo=github&logoColor=white) 
- ![Figma](https://img.shields.io/badge/Figma-292a2b?style=flat&logo=figma&logoColor=white) 
- ![DevTools](https://img.shields.io/badge/DevTools-292a2b?style=flat&logo=googlechrome&logoColor=white)
+---
 
-## **Atualmente Estou Aprendendo**
+## 🎨 Tecnologias e Ferramentas
 
-- **Blazor**: Blazor é uma estrutura da web gratuita e de código aberto que permite aos desenvolvedores criar interfaces de usuário (IU) da web com base em componentes, usando C# e HTML .
-- **MongoDB**: MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
+### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-292a2b?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-292a2b?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-292a2b?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-292a2b?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-292a2b?style=flat&logo=python&logoColor=white" alt="Python" />
+</div>
 
-## **Como Me Encontrar**
+### Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-292a2b?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-292a2b?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-292a2b?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/DevTools-292a2b?style=flat&logo=googlechrome&logoColor=white" alt="DevTools" />
+</div>
 
-- **LinkedIn**: [linkedin.com/in/meu-perfil](https://www.linkedin.com/in/lucas-kamegawa/) 
-- **E-mail**: lucaspireskamegawa@gmail.com
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <!-- GIF animado ilustrativo. Você pode substituir a URL abaixo por outro GIF que melhor represente seu trabalho -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Demonstração de Projeto" width="400" />
+</div>
+
+---
+
+## 🔄 Atualmente Estou Aprendendo
+
+- **Blazor**: Framework web gratuito e open-source que possibilita a criação de interfaces de usuário utilizando C# e HTML.
+- **MongoDB**: Banco de dados orientado a documentos, open-source e multiplataforma, escrito em C++.
+
+---
+
+## 🤝 Como Me Encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-292a2b?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucaspireskamegawa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-292a2b?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</div>
 
 ---
 
 **Frontend Developer** - From ideas to reality.  
-Nice to meet you! I'm Lucas, and I work in the world of web development and prototype creation.
+Nice to meet you!
 
-### **Currently Learning**
-
-- **Blazor**: Blazor is a free and open-source web framework that enables developers to build web user interfaces (UI) based on components, using C# and HTML.
-- **MongoDB**: MongoDB is a free, open-source, cross-platform document-oriented database software written in C++.
-
-### **How to Reach Me**
-
-- **LinkedIn**: [linkedin.com/in/my-profile](https://www.linkedin.com/in/lucas-kamegawa/) 
-- **Email**: lucaspireskamegawa@gmail.com
+<div align="center">
+  <sub>Made with ❤️ by Lucas Kamegawa</sub>
+</div>
