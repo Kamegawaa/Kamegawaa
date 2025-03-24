@@ -19,7 +19,6 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 </div>
 
 ### Ferramentas
-<div align="center">
 <div style="display: inline-block; padding: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" />
 </div>
@@ -31,8 +30,6 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 </div>
 <div style="display: inline-block; padding: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="60" height="60" />
-</div>
-
 </div>
 
 ---
