@@ -38,10 +38,10 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 ## 🤝 Como Me Encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank">
    <h3>Linkedin</h3>
   </a>
-  <a href="mailto:lucaspireskamegawa@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:lucaspireskamegawa@gmail.com" target="_blank">
    <h3>Email</h3>
   </a>
 </div>
