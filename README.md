@@ -20,10 +20,10 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 ### Ferramentas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" /><span></span> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" /><span></span> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" style="margin: 10px;" /><span></span> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="60" height="60" style="margin: 10px;" /><span></span> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" /><span style="padding: 12px"></span> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" /><span style="padding: 12px"></span> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" style="margin: 10px;" /><span style="padding: 12px"></span> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="60" height="60" style="margin: 10px;" /> <span style="padding: 12px"></span> 
 </div>
 
 ---
