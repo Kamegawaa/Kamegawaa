@@ -11,19 +11,19 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 ### Frontend
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-292a2b?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-292a2b?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-292a2b?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-292a2b?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-292a2b?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;" />
 </div>
 
 ### Ferramentas
 <div align="center">
-  <img src="https://img.shields.io/badge/VS_Code-292a2b?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-292a2b?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-292a2b?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/DevTools-292a2b?style=flat&logo=googlechrome&logoColor=white" alt="DevTools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="60" height="60" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="DevTools" width="60" height="60" style="margin: 10px;" />
 </div>
 
 ---
@@ -38,11 +38,11 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 ## 🤝 Como Me Encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-292a2b?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="60" height="60" style="margin: 10px; filter: invert(0.1);" />
   </a>
-  <a href="mailto:lucaspireskamegawa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-292a2b?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="mailto:lucaspireskamegawa@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/60/000000/gmail.png" alt="E-mail" width="60" height="60" style="margin: 10px;" />
   </a>
 </div>
 
