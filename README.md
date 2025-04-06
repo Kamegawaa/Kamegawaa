@@ -7,7 +7,7 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 ---
 
-## 🎨 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Tecnologias
 <div align="center">
@@ -28,14 +28,14 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 ---
 
-## 🔄 Atualmente Estou Aprendendo
+## Atualmente Estou Aprendendo
 
 - **Blazor**: Framework web gratuito e open-source que possibilita a criação de interfaces de usuário utilizando C# e HTML.
 - **MongoDB**: Banco de dados orientado a documentos, open-source e multiplataforma, escrito em C++.
 
 ---
 
-## 🤝 Como Me Encontrar
+## Como Me Encontrar
 
 <div align="Left">
   <h4><a href="https://www.linkedin.com/in/lucas-kamegawa/" target="_blank" style="text-decoration: none;">Meu Linkedin</a></h4>
