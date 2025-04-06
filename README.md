@@ -9,7 +9,7 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 ## 🎨 Tecnologias e Ferramentas
 
-### Frontend
+### Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;" />
