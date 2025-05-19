@@ -30,6 +30,7 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
       height="60" 
       style="margin: 10px; filter: grayscale(1);" 
     />
+![Chrome grayscale](https://img.shields.io/badge/Chrome-Gray_logo-
 </div>
 
 ---
