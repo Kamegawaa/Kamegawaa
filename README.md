@@ -46,7 +46,3 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
 
 **Frontend Developer** - From ideas to reality.  
 Nice to meet you!
-
-<div align="center">
-  <sub>Made with ❤️ by Lucas Kamegawa</sub>
-</div>
