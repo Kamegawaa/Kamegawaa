@@ -15,7 +15,12 @@ Sou Desenvolvedor Frontend, especializado em **Prototipação de Software** e **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" 
+        alt="DevTools" 
+        width="60" 
+        height="60" 
+        style="margin: 10px; filter: grayscale(1);" 
+  />
 </div>
 
 ### Ferramentas
